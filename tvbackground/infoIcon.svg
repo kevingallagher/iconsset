@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="58px" viewBox="0 0 58 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>infoIcon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="infoIcon" fill="#83C9E4">
+            <path d="M24.8422567,30.811279 C23.518018,29.8109372 23.7806798,29 25.4514524,29 L29.1942641,29 C30.8549523,29 32.201206,30.3339615 32.201206,32.0001262 L32.201206,46 L33.9317917,47.8244199 C35.0715334,49.0259596 34.6470752,50 32.9873813,50 L33.1981059,50 C32.6475333,50 31.7541279,50 31.1991383,50 L28.7014585,50 C27.0419996,50 25.6967423,48.6664163 25.6967423,47.0000997 L25.6967423,31.4567651 L24.8422567,30.811279 Z" id="Rectangle-2"></path>
+            <circle id="Oval-Copy" cx="28.5" cy="22.5" r="3.5"></circle>
+        </g>
+    </g>
+</svg>

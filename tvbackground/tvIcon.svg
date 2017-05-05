@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="58px" viewBox="0 0 58 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>tvIcon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tvIcon">
+            <rect id="Rectangle" stroke="#83C9E4" stroke-width="3" x="7.5" y="15.5" width="43" height="38" rx="6"></rect>
+            <path d="M13,25.8642119 C13,23.0993767 15.2360992,20.8611111 18.0002525,20.8611111 L39.9997475,20.8611111 C42.7602879,20.8611111 45,23.1025236 45,25.8642119 L45,41.1357881 C45,43.9006233 42.7639008,46.1388889 39.9997475,46.1388889 L18.0002525,46.1388889 C15.2397121,46.1388889 13,43.8974764 13,41.1357881 L13,25.8642119 Z" id="Rectangle" stroke="#83C9E4" stroke-width="2"></path>
+            <polyline id="Path-3" stroke="#83C9E4" stroke-width="2" stroke-linecap="round" points="27.5 14.5 23.5 9.5 24 3 21 2"></polyline>
+            <polyline id="Path-3" stroke="#83C9E4" stroke-width="2" stroke-linecap="round" transform="translate(34.250000, 8.750000) scale(-1, 1) translate(-34.250000, -8.750000) " points="37.5 14.5 33.5 9.5 33.5 5 31 3"></polyline>
+            <circle id="Oval" fill="#83C9E4" cx="46" cy="49" r="1"></circle>
+        </g>
+    </g>
+</svg>

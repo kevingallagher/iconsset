@@ -1,0 +1,351 @@
+*{
+padding:0;
+margin: 0;
+font-family:100%;
+line-height:1em;
+}
+
+body{width: 100%;
+background-color: #83C9E4;
+    font-family: 'Baloo', cursive;
+
+}
+
+section{height:100vh;
+width: 100%;}
+
+#title{background-image: url(tvbackground/title.svg);
+    background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+}
+
+.title{position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+     top: 20%;
+width: 630px;
+    text-align: center;
+font-size: 6em;
+color: white;
+    
+}
+
+
+
+#friends{background-image: url(tvbackground/friends.svg);
+    background-color: #B87352;
+background-size:contain;
+background-repeat: no-repeat;
+background-position: left;}
+
+
+#theSimpsons{background-image: url(tvbackground/The%20Simpsons.svg);
+    background-color: #F1CACA;
+background-size:contain;
+background-repeat: no-repeat;
+background-position:right;}
+
+#strangerThings{background-image: url(tvbackground/strangerThings.svg);
+    background-color: #4D310F;
+background-size:contain;
+background-repeat: no-repeat;
+background-position:left;}
+
+#theBigBangTheory{background-image: url(tvbackground/TheBigBangTheory.svg);
+     background-color: #EFEAD7;
+background-size:contain;
+background-repeat: no-repeat;
+background-position: Right;}
+
+#topGear{background-image: url(tvbackground/friends.svg);
+background-size:contain;
+background-repeat: no-repeat;
+background-position: left;}
+
+#gameOfThrones{background-image: url(tvbackground/gameOfThrones.svg);
+     background-color: #615143;
+background-size:contain;
+background-repeat: no-repeat;
+background-position: Right;}
+
+#howImetYourMother{background-image: url(tvbackground/howImetYourMother.svg);
+     background-color: #52907D;
+background-size:contain;
+background-repeat: no-repeat;
+background-position: left;}
+
+#modernFamily{background-image: url(tvbackground/modernFamily.svg);
+    background-color: #9BB1BD;
+background-size:contain;
+background-repeat: no-repeat;
+background-position: Right;}
+
+#FreshPrinceofBelair{background-image: url(tvbackground/FreshPrinceofBelair.svg);
+     background-color: #EED8C4;
+background-size:contain;
+background-repeat: no-repeat;
+background-position: left;}
+
+#that70sshow{background-image: url(tvbackground/that70sshow.svg);
+    background-color: #817C7C;
+background-size:contain;
+background-repeat: no-repeat;
+background-position: Right;}
+
+#theRoyalFamily{background-image: url(tvbackground/theRoyalFamily.svg);
+    background-color: #CCC7C2;
+background-size:contain;
+background-repeat: no-repeat;
+background-position: left;}
+
+.badge{position: relative;
+     z-index: 1;
+    margin: auto;
+left: 75%;
+top: 30%;
+transform: scale(2);}
+
+.badge2{position: relative;
+     z-index: 1;
+    margin: auto;
+top: 40%;
+    left:9% ;
+transform: scale(2);}
+
+.button {
+   
+  display: inline-block;
+  border-radius: 10px;
+  background-color: #83C9E4;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  margin: 5px;
+    position: relative;
+    left:34em;
+    top:10em;
+    z-index: 4
+}
+
+.left-button {
+  display: inline-block;
+  border-radius: 10px;
+  background-color: mediumpurple;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+    position: relative;
+    left:4em;
+    top:10em;
+    z-index: 4
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+.left-button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+    ;
+  transition: 0.5s;
+}
+
+.left-button span:after {
+  content: '\00ab';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.left-button:hover span {
+  padding-right: 25px;
+}
+
+.left-button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+/*--------------------*/
+#infopage{background-image: url(tvbackground/title.svg);
+    background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+    background-color: #83C9E4;
+    width: 100%;
+    overflow-y: hidden;
+}
+
+.title2{position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 20%;
+width: 650px;
+    text-align: center;
+font-size: 6em;
+color: white;
+    opacity: 0.1
+    
+}
+
+
+h1{
+display: block;
+margin: 0;
+left: 0;
+right: 0;
+text-align: center;
+font-size:8em;
+color: white;
+}
+
+h2{position: absolute;
+z-index: 2;
+margin: 0;
+left: 0;
+right: 0;
+text-align: center;
+font-size:1.5em;
+    color: #83C9E4;
+    margin-top: 80px;
+}
+
+.couchfact{
+  margin: auto;
+    margin-top: -50px;
+    left: 0;
+    right:0;
+    display: block;
+    width:50%;
+    height:40%;
+    position: relative;
+}
+
+.cloud{position: absolute;
+left: 0;
+right: 0;
+margin: auto;
+width: 100%;}
+
+ul{list-style: none;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top:150;
+    position: absolute;
+    z-index: 5;
+    
+}
+
+.flexbox{display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    
+}
+
+.items{
+    width:120px;
+    height:150px;
+    border: solid 10px #83C9E4;
+    border-radius:10px;
+    transition-duration: 0.3s;
+}
+.items img{transform: scale(2.2);
+    display: block;
+    margin: auto;margin-top: 30%;
+    
+}
+
+.items:hover{background-color: #C8E7F3;}
+
+.freshprincetitle{font-size: 6em;
+padding-top: 0.3em;}
+
+.page-button {
+  display: inline-block;
+  border-radius: 10px;
+  background-color:#83C9E4;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+    position: relative;
+    left:2em;
+    top:10em;
+    z-index: 4
+}
+
+.page-button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+    ;
+  transition: 0.5s;
+}
+
+.page-button span:after {
+  content: '\00ab';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.page-button:hover span {
+  padding-right: 25px;
+}
+
+.page-button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+footer{height: 150px;
+    width: 100%;
+    text-align: center
+}
+
+footer p{margin-top: 2em;}
